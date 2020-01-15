@@ -2,7 +2,7 @@
 name: 申请加入GoRust组织
 about: Application for Join GoRust
 title: 申请加入GoRust组织(Application for join RoRust org.)
-labels: ''
+labels: Application for GoRust
 assignees: sunface
 
 ---
