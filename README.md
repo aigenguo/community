@@ -9,7 +9,7 @@
 
 ## 开发技能要求
 - 前端开发：熟练掌握reactjs 、typscript、css、less
-- 后端开发：熟练掌握go、mysql、redis
+- 后端开发：熟练掌握go语言
 - 全栈开发：熟练掌握前面的所有技能
 
 
