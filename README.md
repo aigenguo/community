@@ -8,9 +8,9 @@
 
 
 ## 开发技能要求
-前端开发：熟练掌握reactjs 、typscript、css、less
-后端开发：熟练掌握go、mysql、redis
-全栈开发：熟练掌握前面的所有技能
+- 前端开发：熟练掌握reactjs 、typscript、css、less
+- 后端开发：熟练掌握go、mysql、redis
+- 全栈开发：熟练掌握前面的所有技能
 
 
 ## 社区角色
@@ -25,11 +25,11 @@
 ## 角色进阶路线
 candidate -> member -> approver -> maintainer -> partner
 
-### 加入社区，成为预备成员(candidate)
+## 加入社区，成为预备成员(candidate)
 - 在community仓库下提交申请加入的issue
 - 我们会在issue中跟您进行互动和确认
 
-### 正式成员(member)
+## 正式成员(member)
 从正式成员开始，你就是组织的一部分了，我们会在github、imdev等各种平台上展示你的风采。
 
 *要求*
@@ -48,7 +48,7 @@ candidate -> member -> approver -> maintainer -> partner
 
 注意: 经常贡献代码的成员应该积极执行代码审查(Code Review)并努力成为该子项目的*审核者*
 
-### 审核者(approver)
+## 审核者(approver)
 
 代码审核者可以审查和批准代码的提交，代码审查要聚焦在代码质量和正确性，批准聚焦在全盘可接受性：
 前后/向前兼容性、是否符合API的约定、性能和正确性问题、跟其他系统的交互性等等。
